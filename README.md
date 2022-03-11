@@ -1,0 +1,2 @@
+# FaroeseTelecom
+Faroese Telecom Utilities
